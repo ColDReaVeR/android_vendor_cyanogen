@@ -26,6 +26,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_inc.mk \
     $(LOCAL_DIR)/cyanogen_iyokan.mk \
     $(LOCAL_DIR)/cyanogen_jordan.mk \
+    $(LOCAL_DIR)/cyanogen_jordan_plus.mk \
     $(LOCAL_DIR)/cyanogen_galaxy5.mk \
     $(LOCAL_DIR)/cyanogen_galaxys2.mk \
     $(LOCAL_DIR)/cyanogen_galaxys2att.mk \
@@ -55,6 +56,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_shakira.mk \
     $(LOCAL_DIR)/cyanogen_sholes.mk \
     $(LOCAL_DIR)/cyanogen_showcasemtd.mk \
+    $(LOCAL_DIR)/cyanogen_skate.mk \
     $(LOCAL_DIR)/cyanogen_smb_a1002.mk \
     $(LOCAL_DIR)/cyanogen_smb_a1004.mk \
     $(LOCAL_DIR)/cyanogen_smb_a1011.mk \
@@ -67,6 +69,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_tass.mk \
     $(LOCAL_DIR)/cyanogen_tiny6410.mk \
     $(LOCAL_DIR)/cyanogen_u8150.mk \
+    $(LOCAL_DIR)/cyanogen_u8160.mk \
     $(LOCAL_DIR)/cyanogen_u8220.mk \
     $(LOCAL_DIR)/cyanogen_urushi.mk \
     $(LOCAL_DIR)/cyanogen_v9.mk \
